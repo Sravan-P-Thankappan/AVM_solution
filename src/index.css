@@ -1,0 +1,16 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Rota-Regular';
+    src: url(./font/Rota-Regular.otf);
+}
+
+
+body{
+ background-color: white;
+}
+
